@@ -1,0 +1,35 @@
+/*Filename: functions and array style page
+ Author: Esther Chukwunwike
+ Date: 10/18/2021
+ Description: Functions and arrays style page
+*/
+
+/*Specifies the body background color*/
+body {
+  	background: rgb(168, 72, 155);
+}
+
+/*image settings*/
+img{
+	border: 5px solid black;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 500px;
+	height: 300px;
+}
+
+/*h3 (third level heading font, text and color settings*/
+h3{
+	font-family: sans-serif;
+  	text-align: left;
+  	color: #41c2ad;
+	background: rgb(14, 13, 13);
+}
+
+/*paragraph element settings*/
+p{
+	font-family: sans-serif;
+	color: #dae2e1;
+	background: rgb(54, 40, 184);
+}
